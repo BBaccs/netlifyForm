@@ -4,6 +4,8 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+alert('Although this form works, please do not use, it goes unchecked! Thank you!');
+
 (function($) {
 
 	var	$window = $(window),
